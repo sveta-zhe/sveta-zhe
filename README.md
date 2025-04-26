@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, my name is Svetlana! 👋
+### I am a beginner data analyst and data scientist
 <!--
 **sveta-zhe/sveta-zhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 **Currently working on:**
+- Kaggle dataset analysis (Python, Pandas).
+- Creating dashboards.
+
+🌱 **Learning:**
+- SQL for complex queries.
+- Data visualization (Matplotlib, Seaborn).
+
+### 🛠 My stack:
+- **Languages:** Python, SQL
+- **Tools:** Pandas, ML, Power BI, Excel...
+- **Visualization:** Matplotlib, Seaborn
+
+### 📫 How to contact:
+- Telegram: @svetazheleykina
