@@ -1,5 +1,5 @@
 ## Hi, my name is Svetlana! 👋
-### I am a beginner data analyst and data scientist
+
 <!--
 **sveta-zhe/sveta-zhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
