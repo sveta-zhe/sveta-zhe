@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 
 ### 🛠 My stack:
 - **Languages:** Python, SQL
-- **Tools:** Pandas, ML, Power BI, Excel...
-- **Visualization:** Matplotlib, Seaborn
+- **Tools:** HTML, CSS, Pandas, EDA, Power BI, Excel...
+- **Visualization:** Figma, Adobe Photoshop, Illustrator, Matplotlib, Seaborn
 
 ### 📫 How to contact:
 - Telegram: @svetazheleykina
+- VK: https://vk.com/zheleykina_so
