@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 🔭 **Currently working on:**
 - Kaggle dataset analysis (Python, Pandas).
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🌱 **Learning:**
 - SQL for complex queries.
-- Data visualization (Matplotlib, Seaborn).
+- Data visualization (Matplotlib, Seaborn). -->
 
 ### 🛠 My stack:
 - **Languages:** Python, SQL
